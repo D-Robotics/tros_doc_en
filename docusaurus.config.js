@@ -115,6 +115,26 @@ const config = {
       },
     }),
 
+    // plugins: [
+    //   [
+        
+    //     "docusaurus-plugin-giscus",
+    //     {
+    //       repo: "D-Robotics/tros_doc_en", // 例如: "facebook/docusaurus"
+    //       repoId: "806560652", // 可以在giscus配置页面找到
+    //       category: "General", // 或者你选择的其他分类
+    //       categoryId: "42103519", // 可以在giscus配置页面找到
+    //       mapping: "title", // 你希望如何映射评论。可选值："pathname", "url", "title"
+    //       reactionsEnabled: "1", // 启用表情反应。0为禁用，1为启用
+    //       emitMetadata: "1", // 0为禁用，1为启用
+    //       inputPosition: "top", // 输入框的位置。"top" 或 "bottom"
+    //       theme: "light", // 评论框的主题。"light", "dark", "preferred_color_scheme", 等
+    //       lang: "en", // 语言。 例如："en", "zh-CN"
+    //       loading: "auto", // 懒加载。"lazy", "eager", "auto"
+    //     },
+    //   ],
+    // ],
+
     themes: [
       // ... Your other themes.
       [
